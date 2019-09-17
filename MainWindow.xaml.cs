@@ -23,6 +23,7 @@ namespace newWPF_Aplication
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine();
         }
     }
 }

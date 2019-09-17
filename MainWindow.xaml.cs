@@ -24,6 +24,7 @@ namespace newWPF_Aplication
         {
             InitializeComponent();
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }

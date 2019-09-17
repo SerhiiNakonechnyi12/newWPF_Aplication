@@ -13,6 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+/*
+ * Проект Blank App 
+ * 
+ */
+
 namespace newWPF_Aplication
 {
     /// <summary>

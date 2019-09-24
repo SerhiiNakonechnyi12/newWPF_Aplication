@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 /*
- * Проект Blank App 
+ * Проект Blank App. Defending from aliens
  * 
  */
 
@@ -28,6 +28,7 @@ namespace newWPF_Aplication
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
         }
